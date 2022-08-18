@@ -1,0 +1,15 @@
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.exe
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.deps.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\refint\CalculadoraSimples.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\CalculadoraSimples\obj\Debug\net6.0\ref\CalculadoraSimples.dll

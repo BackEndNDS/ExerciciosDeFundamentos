@@ -1,0 +1,15 @@
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\bin\Debug\net6.0\MaiorEMenorNumeroWhile.exe
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\bin\Debug\net6.0\MaiorEMenorNumeroWhile.deps.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\bin\Debug\net6.0\MaiorEMenorNumeroWhile.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\bin\Debug\net6.0\MaiorEMenorNumeroWhile.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\bin\Debug\net6.0\MaiorEMenorNumeroWhile.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\refint\MaiorEMenorNumeroWhile.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\MaiorEMenorNumeroWhile.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MaiorEMenorNumeroWhile\obj\Debug\net6.0\ref\MaiorEMenorNumeroWhile.dll

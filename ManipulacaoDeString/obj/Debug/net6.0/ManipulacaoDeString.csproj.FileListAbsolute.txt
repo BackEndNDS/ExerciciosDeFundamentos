@@ -1,0 +1,15 @@
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\bin\Debug\net6.0\ManipulacaoDeString.exe
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\bin\Debug\net6.0\ManipulacaoDeString.deps.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\bin\Debug\net6.0\ManipulacaoDeString.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\bin\Debug\net6.0\ManipulacaoDeString.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\bin\Debug\net6.0\ManipulacaoDeString.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\refint\ManipulacaoDeString.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ManipulacaoDeString.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ManipulacaoDeString\obj\Debug\net6.0\ref\ManipulacaoDeString.dll

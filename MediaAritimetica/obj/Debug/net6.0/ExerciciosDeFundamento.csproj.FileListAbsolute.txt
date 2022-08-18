@@ -1,0 +1,15 @@
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\bin\Debug\net6.0\ExerciciosDeFundamento.exe
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\bin\Debug\net6.0\ExerciciosDeFundamento.deps.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\bin\Debug\net6.0\ExerciciosDeFundamento.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\bin\Debug\net6.0\ExerciciosDeFundamento.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\bin\Debug\net6.0\ExerciciosDeFundamento.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\refint\ExerciciosDeFundamento.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ExerciciosDeFundamento.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\ExerciciosDeFundamento\obj\Debug\net6.0\ref\ExerciciosDeFundamento.dll

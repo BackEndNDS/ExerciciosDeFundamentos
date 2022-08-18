@@ -1,0 +1,15 @@
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\bin\Debug\net6.0\MediaAritimeticaDoWhile.exe
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\bin\Debug\net6.0\MediaAritimeticaDoWhile.deps.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\bin\Debug\net6.0\MediaAritimeticaDoWhile.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\bin\Debug\net6.0\MediaAritimeticaDoWhile.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\bin\Debug\net6.0\MediaAritimeticaDoWhile.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\refint\MediaAritimeticaDoWhile.dll
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.pdb
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\MediaAritimeticaDoWhile.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\MediaAritimeticaDoWhile\obj\Debug\net6.0\ref\MediaAritimeticaDoWhile.dll
