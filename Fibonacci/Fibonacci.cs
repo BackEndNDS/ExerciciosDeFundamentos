@@ -4,19 +4,22 @@ public class Fibonacci
 {
     public static void Main(string[] args)
     {
-        Fibo(1, 0, 0);
+        Console.WriteLine("Informw a quantidade de numeros a ser imprimido");
+        int quantidade = int.Parse(Console.ReadLine() + "\n");
+        Fibo(1, quantidade, 0, 1);
     }
     public static int Fibo(int num1, int quantidade, int aux)
     {
-        Console.WriteLine(num1);
-        if (quantidade > 10)
+        if (i > quantidade)
         {
             return num1;
         }
         
+        Console.WriteLine(num1);   
         var result = num1 + aux;
         aux = num1;
         num1 = result;
-        return Fibo(result, ++quantidade, aux);
+        i++;
+        return Fibo(result, quantidade, aux, i);
     }
 }
