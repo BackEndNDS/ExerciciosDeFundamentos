@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97fdfd94-262e-497d-b75d-2f4318b11ff5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExerciciosDeFundamentos.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ExerciciosDeFundamentos.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPGStruct/RGPStruct.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciciosDeFundamentos/MediaAritimetica.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/Fibonacci.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/Fibonacci.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/bin/Debug/net6.0/Fibonacci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/bin/Debug/net6.0/Fibonacci.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/refint/Fibonacci.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Debug/net6.0/refint/Fibonacci.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Fibonacci.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Fibonacci.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/Fibonacci.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/Fibonacci.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonacci/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ExerciciosDeFundamentos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ExerciciosDeFundamentos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ExerciciosDeFundamentos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ExerciciosDeFundamentos.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/ExerciciosDeFundamentos.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ExerciciosDeFundamentos.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DupEstYldeogOepRf5GsM6wYmC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ExerciciosDeFundamentos.RPGStruct.RGPStruct.Tela" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2022.1.2\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExerciciosDeFundamentos.csproj" />
+      <option name="PROJECT_TFM" value="net6.0" />
+      <option name="CLASS_NAME" value="ExerciciosDeFundamentos.RPGStruct.RGPStruct" />
+      <option name="METHOD_NAME" value="Tela" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.ExerciciosDeFundamentos.RPGStruct.RGPStruct.Tela" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97fdfd94-262e-497d-b75d-2f4318b11ff5" name="Changes" comment="" />
+      <created>1661558717256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661558717256</updated>
+      <workItem from="1661558725155" duration="2297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>8</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="8" containingFunctionPresentation="method 'Main'">
+            <startOffsets>
+              <option value="166" />
+            </startOffsets>
+            <endOffsets>
+              <option value="181" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>54</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="54" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1509" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1532" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>56</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="56" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1555" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1572" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>58</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="58" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1591" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1614" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>60</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="60" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1637" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1650" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>62</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="62" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1669" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1692" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>64</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="64" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1715" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1736" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>66</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="66" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1755" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1778" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>68</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="68" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1801" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1815" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RPGStruct/RGPStruct.cs</url>
+          <line>71</line>
+          <properties documentPath="C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\RPGStruct\RGPStruct.cs" initialLine="71" containingFunctionPresentation="method 'InvocarVilao'">
+            <startOffsets>
+              <option value="1835" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1857" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

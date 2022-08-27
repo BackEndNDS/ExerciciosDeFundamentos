@@ -8,7 +8,7 @@ public class Fibonacci
         int quantidade = int.Parse(Console.ReadLine() + "\n");
         Fibo(1, quantidade, 0, 1);
     }
-    public static int Fibo(int num1, int quantidade, int aux)
+    public static int Fibo(int num1, int quantidade, int aux, int i)
     {
         if (i > quantidade)
         {
