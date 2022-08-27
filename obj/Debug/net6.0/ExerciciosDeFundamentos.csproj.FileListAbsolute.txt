@@ -10,3 +10,11 @@ C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerci
 C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\obj\Debug\net6.0\refint\ExerciciosDeFundamentos.dll
 C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.pdb
 C:\Users\natan\OneDrive\Documentos\Scripts\Csharp\ProjetosDeEstudo\ListaDeExerciciosCsharp\ExerciciosDeFundamentos\obj\Debug\net6.0\ref\ExerciciosDeFundamentos.dll
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.dll
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\refint\ExerciciosDeFundamentos.dll
+C:\Users\natan\OneDrive\Documentos\GitHub\ExerciciosDeFundamentos\obj\Debug\net6.0\ExerciciosDeFundamentos.pdb
