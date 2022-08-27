@@ -107,25 +107,16 @@ public class RGPStruct
         var Ladrao = new Vilao("Ladrao", 1500, 12);
 
         var numAleatorio = new Random();
-        int chefeInvocado = numAleatorio.Next(1, 4);
+        int chefeInvocado = numAleatorio.Next(1, 5);
 
-        if (chefeInvocado == 1)
+        switch (chefeInvocado)
         {
-            return ReiGoblin;
+            case 1: return ReiGoblin;
+            case 2: return Slime;
+            case 3: return AranhaGigante;
+            case 4: return Ladrao;
+            default: InvocarVilao(); break; 
         }
-        if (chefeInvocado == 2)
-        {
-            return Slime;
-        }
-        if (chefeInvocado == 3)
-        {
-            return AranhaGigante;
-        }
-        if (chefeInvocado == 4)
-        {
-            return Ladrao;
-        }
-
         return InvocarVilao();
     }
 

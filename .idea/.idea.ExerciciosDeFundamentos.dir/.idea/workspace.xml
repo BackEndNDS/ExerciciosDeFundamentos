@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97fdfd94-262e-497d-b75d-2f4318b11ff5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExerciciosDeFundamentos.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExerciciosDeFundamentos.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RPGStruct/RGPStruct.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RPGStruct/RGPStruct.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGStruct/bin/Debug/net6.0/RPGStruct.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RPGStruct/bin/Debug/net6.0/RPGStruct.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGStruct/bin/Debug/net6.0/RPGStruct.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RPGStruct/bin/Debug/net6.0/RPGStruct.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/RPGStruct.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/RPGStruct.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/RPGStruct.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/RPGStruct.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/ref/RPGStruct.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/ref/RPGStruct.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/refint/RPGStruct.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RPGStruct/obj/Debug/net6.0/refint/RPGStruct.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661558717256</updated>
-      <workItem from="1661558725155" duration="7745000" />
+      <workItem from="1661558725155" duration="8115000" />
     </task>
     <servers />
   </component>
