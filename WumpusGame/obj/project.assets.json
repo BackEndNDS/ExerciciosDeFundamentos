@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/natananel/RiderProjects/ExerciciosDeFundamentos/ExerciciosDeFundamentos.csproj",
-      "projectName": "ExerciciosDeFundamentos",
-      "projectPath": "/home/natananel/RiderProjects/ExerciciosDeFundamentos/ExerciciosDeFundamentos.csproj",
+      "projectUniqueName": "/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/WumpusGame.csproj",
+      "projectName": "WumpusGame",
+      "projectPath": "/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/WumpusGame.csproj",
       "packagesPath": "/home/natananel/.nuget/packages/",
-      "outputPath": "/home/natananel/RiderProjects/ExerciciosDeFundamentos/obj/",
+      "outputPath": "/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/natananel/.nuget/NuGet/NuGet.Config"

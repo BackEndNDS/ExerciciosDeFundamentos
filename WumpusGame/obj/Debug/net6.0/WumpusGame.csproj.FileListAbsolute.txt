@@ -1,0 +1,15 @@
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/bin/Debug/net6.0/WumpusGame
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/bin/Debug/net6.0/WumpusGame.deps.json
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/bin/Debug/net6.0/WumpusGame.runtimeconfig.json
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/bin/Debug/net6.0/WumpusGame.dll
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/bin/Debug/net6.0/WumpusGame.pdb
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.csproj.AssemblyReference.cache
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.AssemblyInfoInputs.cache
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.AssemblyInfo.cs
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.csproj.CoreCompileInputs.cache
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.dll
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/refint/WumpusGame.dll
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.pdb
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/WumpusGame.genruntimeconfig.cache
+/home/natananel/RiderProjects/ExerciciosDeFundamentos/WumpusGame/obj/Debug/net6.0/ref/WumpusGame.dll
